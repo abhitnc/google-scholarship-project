@@ -1,0 +1,52 @@
+/* add your CSS here */
+/* CSS for Cars */
+.card {
+	display: block;
+	border: 1px solid #ddd;
+	width: 330px;
+	box-shadow: 5px 5px #ddd;
+}
+/* animal name properties*/
+.animal_name{
+	display: block;
+	border: 1px;
+}
+/* Animal Image Properties */
+.animal_pic{
+	width: 300px;
+	height: 200px;
+	border: 1px #fff solid;
+	margin-top: 0px;
+	cursor: pointer;	
+}
+/* To make font italic of first paragrapgh */
+.italic{
+	font-style: italic;
+	margin : 15px;
+}
+
+/* Setting Information of animal */
+.box2{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border: 1px solid #ddd;
+	width: 300px;
+}
+/* make labels bold */
+.bold{
+	font-weight: bold;
+}
+/* set magin-left and margin-right */
+.set_margin{
+	margin-right: 15px;
+    margin-left: 15px;
+}
+/* set margin of the list */
+.list{
+	padding-left: 0px;
+    margin: 15px;
+}
+/* removing list decoration */
+.list_decoration {
+	list-style-type: none;
+}
