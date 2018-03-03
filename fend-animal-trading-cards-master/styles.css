@@ -1,4 +1,19 @@
 /* add your CSS here */
+
+/* set magin-left and margin-right */
+.set_margin{
+	margin-right: 15px;
+    margin-left: 15px;
+}
+/* set margin of the list */
+.list{
+	padding-left: 0px;
+    margin: 15px;
+}
+/* removing list decoration */
+.list_decoration {
+	list-style-type: none;
+}
 /* CSS for Cars */
 .card {
 	display: block;
@@ -35,18 +50,4 @@
 /* make labels bold */
 .bold{
 	font-weight: bold;
-}
-/* set magin-left and margin-right */
-.set_margin{
-	margin-right: 15px;
-    margin-left: 15px;
-}
-/* set margin of the list */
-.list{
-	padding-left: 0px;
-    margin: 15px;
-}
-/* removing list decoration */
-.list_decoration {
-	list-style-type: none;
 }
